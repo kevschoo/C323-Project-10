@@ -1,13 +1,18 @@
 # C323 Project 10
 
 This is a sensor and gesture app. It senses the location, temperature, and air pressure. It will react to gestures to move a red circle in the second activity.
+It is under review being in closed testing: 
+https://play.google.com/store/apps/details?id=edu.iu.kevschoo.project10gesturesensors
+https://play.google.com/apps/testing/edu.iu.kevschoo.project10gesturesensors
 
 ## Functionality 
 
 The following **required** functionality is completed:
 
-* [ ] User can enable sensors and get feedback on the data.
-* [ ] User can use gestures to move the circle and view logs of it.
+* [ ] User can enable sensors and get feedback on the data
+* [ ] 3 sensors, Location, Temperature, Air Pressure
+* [ ] Gesture Playground has horizontal and vertical layouts
+* [ ] User can use gestures to move the circle and view logs of it
 
 The following **extensions** are implemented:
 
